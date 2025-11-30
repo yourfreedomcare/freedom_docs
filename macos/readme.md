@@ -1,1 +1,1 @@
-iOS files for docs
+macOS files for docs
